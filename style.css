@@ -1,0 +1,13 @@
+header{
+    background-color: darkgoldenrod;
+    text-decoration: darkgrey;
+    padding: 1%;
+    
+}
+button{
+    display: flexbox;
+}
+
+footer{
+    background-color: darkgoldenrod;
+}
